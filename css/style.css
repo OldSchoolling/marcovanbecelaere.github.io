@@ -1,0 +1,247 @@
+body{
+
+	text-align: center;
+	font-family: 'Noto Sans JP', sans-serif;
+	color: white;
+	background: #355C7D;
+  height: 3500px;
+
+}
+
+a{
+
+	scroll-behavior: smooth;
+}
+
+.Nom {
+
+  font-size: 37px;
+    width: 600px;
+    padding: 12px;
+    margin-left: 33%;
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+	outline-style: groove;
+}
+
+.Navbar ul {
+  background-color: #153C5D;
+  overflow: hidden;
+  list-style-type: none;
+  padding-top: 0.5vh;
+  padding-bottom: 0.5vh;
+  padding-left: 0.5vw;
+  padding-right: 0.5vw;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  width: 60vw;
+}
+.Navbar li {
+  display: inline;
+  color: #000;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  text-decoration: none;
+}
+.Navbar li a{
+	color: white;
+	font-size: 25px;
+	text-decoration: none;
+}
+.Navbar li:hover{
+
+	background-color: #254C6D;
+	transition: 0.5s;
+}
+.Navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.home{
+	padding-top: 0px;
+	padding-bottom: 2vh;
+}
+.pres{
+	padding-top: 0px;
+	padding-bottom: 7vh;
+}
+
+.Presentation h3 {
+  font-size: 38px;
+}
+.Presentation p {
+	font-size: 24px;
+}
+
+.comp{
+	padding-top: 0px;
+	padding-bottom: 7vh;
+}
+
+.Competences h3{
+
+  font-size: 38px;
+
+}
+.Competences ul{
+  width: 98vw;
+  font-size: 24px;
+  padding-left: 0vw;
+  padding-right: 0vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+
+.Competences ul ul{
+}
+
+.Competences ul li{
+
+  list-style-type: none;
+  font-size: 18px;
+
+}
+
+.barrevide{
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 0.25vh;
+  margin-bottom: 1.25vh;
+  height:16px;
+  width:30%;
+  background-color: #1A456F;
+  }
+
+.Cs {
+  background-color: #5A85AF;
+  height:100%;
+  width:75%;
+}
+.Py {
+  background-color: #5A85AF;
+  height:100%;
+  width: 60%;
+}
+.Cpp {
+  background-color: #5A85AF;
+  height:100%;
+  width: 40%;
+}
+.Daw {
+  background-color: #5A85AF;
+  height:100%;
+  width: 80%;
+}
+.Th {
+  background-color: #5A85AF;
+  height:100%;
+  width: 40%;
+}
+.Fr {
+  background-color: #5A85AF;
+  height:100%;
+  width: 90%;
+}
+.An {
+  background-color: #5A85AF;
+  height:100%;
+  width: 80%;
+}
+.Al {
+  background-color: #5A85AF;
+  height:100%;
+  width: 30%;
+}
+
+.Uni {
+  background-color: #5A85AF;
+  height:100%;
+  width: 50%;
+}
+
+.Unr {
+  background-color: #5A85AF;
+  height:100%;
+  width: 10%;
+}
+
+.real{
+  padding-top: 0px;
+  padding-bottom: 7vh;
+}
+
+.Realisations{
+  font-size: 38px;
+}
+
+#spn{
+  height: 30vh;
+  width: 25vw;
+}
+
+#lststd{
+  height: 30vh;
+  width: 25vw;
+
+}
+
+#tpe{
+  height: 30vh;
+  width: 25vw;
+}
+
+.Realisations a{
+  width: 25vw;
+}
+.Realisations h5{
+  font-size: 15px;
+}
+.Realisations div{
+  display: inline-block;
+  width: 25vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+
+.cont{
+  padding-top: 0px;
+  padding-bottom: 7vh;
+}
+
+.Contact{
+  font-size: 38px;  
+}
+.Contact a{
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-soundcloud {
+  background: #ff7700;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #0072B1;
+  color: white;
+}
+
+.fa-google{
+  background: #DB4A39;
+  color: white;
+}
+
+.Contact p{
+  font-size: 12px;
+}
