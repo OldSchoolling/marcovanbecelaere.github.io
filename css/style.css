@@ -16,9 +16,10 @@ a{
 .Nom {
 
   font-size: 37px;
-    width: 600px;
+    width: 33vw;
     padding: 12px;
-    margin-left: 33vh;
+    margin-left: 33vw;
+    margin-right: 33vw;
     margin-top: 25vh;
     margin-bottom: 25vh;
 	outline-style: groove;
