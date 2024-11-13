@@ -96,13 +96,11 @@ a{
   padding-bottom: 1vh;
 }
 
-.Competences ul ul{
-}
 
-.Competences ul li{
 
-  list-style-type: none;
-  font-size: 18px;
+.Competences img{
+
+  padding: 3vw;
 
 }
 
