@@ -2,10 +2,9 @@ body{
 
 	text-align: center;
 	font-family: 'Noto Sans JP', sans-serif;
-	color: white;
-	background-image: linear-gradient(to bottom,#DEC4A6,#D5BCA0);
-  height: 3500px;
-
+	color: black;
+	background-image: linear-gradient(160deg,#DEC4A6,#BC9E7E);
+  margin:0px;
 }
 
 a{
@@ -17,55 +16,45 @@ a{
 
   font-size: 37px;
     width: 33vw;
-    padding: 12px;
+    padding-top: 17vw;
+    padding-bottom: 17vw;
     margin-left: 33vw;
     margin-right: 33vw;
-    margin-top: 25vh;
-    margin-bottom: 25vh;
 }
 
-.Navbar ul {
-  background-color: #5E4B34;
+.Navbar {
+  top: 0;
+  left: 0;
+
+  width: 100vw;
+
+  margin: 0px;
+  padding: 0px;
+
+  position: fixed;
   overflow: hidden;
   list-style-type: none;
-  padding-top: 0vh;
-  padding-bottom: 0.5vh;
-  padding-left: 0vw;
-  padding-right: 0vw;
-  margin-left: 0vw;
-  margin-right: 0vw;
-  width: 100vw;
-  height: 7.5vw;
+
+  background-color: #5E4B34;
 }
+
 .Navbar li {
-  display: inline;
-  color: #000;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
-  padding-left: 2vw;
-  padding-right: 2vw;
-  text-decoration: none;
+  display: inline-block;
+  padding: 0.75vw;
 }
 .Navbar li a{
 	color: white;
-	font-size: 25px;
+	font-size: 32px;
 	text-decoration: none;
+
 }
 .Navbar li:hover{
 
-	background-color: #9E8F7E;
+	background-color: #7A6146;
 	transition: 0.5s;
 }
-.Navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-}
 
-.home{
-	padding-top: 0px;
-	padding-bottom: 2vh;
-}
+
 .pres{
 	padding-top: 0px;
 	padding-bottom: 7vh;
@@ -75,7 +64,8 @@ a{
   font-size: 38px;
 }
 .Presentation p {
-	font-size: 24px;
+	font-size: 28px;
+  line-height: 48px;
 }
 
 .comp{
@@ -101,14 +91,11 @@ a{
 
 .Competences img{
 
-  padding: 3vw;
+  padding: 2vw;
+  padding-top: 1.25vw;
 
 }
 
-.real{
-  padding-top: 0px;
-  padding-bottom: 7vh;
-}
 
 .Realisations{
   font-size: 38px;
@@ -128,8 +115,6 @@ a{
 .Realisations h5{
   font-size: 15px;
 }
-
-
 
 .cont{
   padding-top: 0px;
