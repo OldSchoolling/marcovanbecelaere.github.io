@@ -106,69 +106,6 @@ a{
 
 }
 
-.barrevide{
-  margin-left: 35%;
-  margin-right: 35%;
-  margin-top: 0.25vh;
-  margin-bottom: 1.25vh;
-  height:16px;
-  width:30%;
-  background-color: #1A456F;
-  }
-
-.Cs {
-  background-color: #5A85AF;
-  height:100%;
-  width:75%;
-}
-.Py {
-  background-color: #5A85AF;
-  height:100%;
-  width: 60%;
-}
-.Cpp {
-  background-color: #5A85AF;
-  height:100%;
-  width: 40%;
-}
-.Daw {
-  background-color: #5A85AF;
-  height:100%;
-  width: 80%;
-}
-.Th {
-  background-color: #5A85AF;
-  height:100%;
-  width: 40%;
-}
-.Fr {
-  background-color: #5A85AF;
-  height:100%;
-  width: 90%;
-}
-.An {
-  background-color: #5A85AF;
-  height:100%;
-  width: 80%;
-}
-.Al {
-  background-color: #5A85AF;
-  height:100%;
-  width: 30%;
-}
-
-.Uni {
-  background-color: #5A85AF;
-  height:100%;
-  width: 50%;
-}
-
-.Unr {
-  background-color: #5A85AF;
-  height:100%;
-  width: 10%;
-}
-
 .real{
   padding-top: 0px;
   padding-bottom: 7vh;
