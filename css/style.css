@@ -3,7 +3,7 @@ body{
 	text-align: center;
 	font-family: 'Noto Sans JP', sans-serif;
 	color: white;
-	background: #355C7D;
+	background-image: linear-gradient(to bottom,#DEC4A6,#D5BCA0);
   height: 3500px;
 
 }
@@ -25,16 +25,17 @@ a{
 }
 
 .Navbar ul {
-  background-color: #153C5D;
+  background-color: #5E4B34;
   overflow: hidden;
   list-style-type: none;
-  padding-top: 0.5vh;
+  padding-top: 0vh;
   padding-bottom: 0.5vh;
-  padding-left: 0.5vw;
-  padding-right: 0.5vw;
-  margin-left: 20vw;
-  margin-right: 20vw;
-  width: 60vw;
+  padding-left: 0vw;
+  padding-right: 0vw;
+  margin-left: 0vw;
+  margin-right: 0vw;
+  width: 100vw;
+  height: 7.5vw;
 }
 .Navbar li {
   display: inline;
@@ -52,7 +53,7 @@ a{
 }
 .Navbar li:hover{
 
-	background-color: #254C6D;
+	background-color: #9E8F7E;
 	transition: 0.5s;
 }
 .Navbar {
