@@ -113,34 +113,21 @@ a{
   font-size: 38px;
 }
 
-#spn{
-  height: 30vh;
-  width: 25vw;
-}
-
-#lststd{
-  height: 30vh;
-  width: 25vw;
-
-}
-
-#tpe{
-  height: 30vh;
-  width: 25vw;
-}
-
-.Realisations a{
-  width: 25vw;
-}
-.Realisations h5{
-  font-size: 15px;
-}
 .Realisations div{
   display: inline-block;
-  width: 25vw;
   margin-left: 5vw;
   margin-right: 5vw;
 }
+
+.Realisations img {
+  height: 30vh;
+  width: 25vw;
+}
+
+.Realisations h5{
+  font-size: 15px;
+}
+
 
 
 .cont{
